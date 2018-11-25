@@ -1,8 +1,5 @@
-# flutter_app
 
-A new Flutter application.
+# flutter_getting_started
 
-## Getting Started
+This is a follow along code based on getting started with flutter from the flutter guys
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
